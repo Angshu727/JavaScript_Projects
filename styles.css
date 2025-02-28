@@ -58,3 +58,9 @@ button:hover {
     font-weight: bold;
     color: #007bff;
 }
+footer{
+   text-align: right;
+   font-style: oblique;
+   font-size: 10px;
+   color:grey;
+}
